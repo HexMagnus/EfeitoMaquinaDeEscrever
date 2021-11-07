@@ -1,0 +1,2 @@
+# EfeitoMaquinaDeEscrever
+ EfeitoMaquinaDeEscrever
